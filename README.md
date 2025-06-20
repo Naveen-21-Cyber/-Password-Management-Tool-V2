@@ -50,7 +50,7 @@ pip install cryptography requests pyperclip
 ### Installation
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/enhanced-password-manager.git](https://github.com/Naveen-21-Cyber/-Password-Management-Tool-V2)
+git clone https://github.com/Naveen-21-Cyber/-Password-Management-Tool-V2
 cd enhanced-password-manager
 ```
 
